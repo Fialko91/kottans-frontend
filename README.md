@@ -1,5 +1,12 @@
-# Git и GitHub
-Было интересно пройти данный курс, узнал много чего интересного.
+## Linux CLI, and HTTP
+Узнал много интересных комманд которые до этого не знал, буду использовать на практике 
 
-# => learngitbranching.js.org
-инетресно проходить тести, и видеть наглядно бранчевание веток
+<details>
+<summary>Screenshots</summary>
+
+![](task_linux_cli/q1/img.png)
+![](task_linux_cli/q2/img.png)
+![](task_linux_cli/q3/img.png)
+![](task_linux_cli/q4/img.png)
+
+</details>
