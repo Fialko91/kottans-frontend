@@ -1,2 +1,2 @@
 # kottans-frontend
-kottans
+https://github.com/Fialko91/kottans-frontend.git
